@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **track back**
 
-- 🌱 I’m currently learning **AL/ML**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **MERN**
 
