@@ -1,4 +1,6 @@
-[![MasteHead].(https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_400_744/0/1624597705774?e=2147483647&v=beta&t=CUqQ50dArmsbi9pZgeLdAfOFe8FCno8gLnsT8pGUI_w).]
+<p align="center">
+  <img src="assets/header.png"/>
+</p>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=kartikey-kashyap;Software+Engineer" width="auto" height="35"/>
 </p>
