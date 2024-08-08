@@ -49,6 +49,7 @@
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartikey302&theme=transparent" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikey302&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjit-sahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kartikey302&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikey302&theme=transparent" height="180em" alt="Commitments"/>
 </div>
