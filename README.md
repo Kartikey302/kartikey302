@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="assets/header.png"/>
+</p>
+<p align="center">
   <img src="https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_400_744/0/1624597705774?e=2147483647&v=beta&t=CUqQ50dArmsbi9pZgeLdAfOFe8FCno8gLnsT8pGUI_w"/>
 </p>
 <h1 align="center">Hi 👋, I'm kartikey</h1>
