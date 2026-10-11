@@ -38,5 +38,4 @@ I'm seeking AI/ML internships and entry-level opportunities where I can apply my
 
 - **GitHub:** [Kartikey302](https://github.com/Kartikey302)
 - **LinkedIn:** [kartikeykashyap23](https://www.linkedin.com/in/kartikeykashyap23)
-- **Email:** [kartikeykashyap2003@gmail.com]
 
